@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lui5pere2/coLearning-Dashboard.git"
+  },
+  "author": "Luis Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lui5pere2/coLearning-Dashboard/issues"
+  },
+  "homepage": "https://github.com/lui5pere2/coLearning-Dashboard#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
